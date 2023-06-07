@@ -1,1 +1,2 @@
 # rock-paper-scissor-game-python
+The "Rock-Paper-Scissors" game is a simple implementation of the classic hand game. The code allows the user to play against the computer by entering their choice of rock, paper, or scissors. The computer generates a random choice, and the code determines the winner based on the game rules. The program displays the outcome of the game, whether it's a tie, a win for the user, or a loss. It serves as a fun and interactive way to play the Rock-Paper-Scissors game on your computer.
